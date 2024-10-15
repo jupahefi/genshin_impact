@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artefactos para Genshin</title>
+    <style>
+        body {
+            background-image: url('https://www.latercera.com/resizer/QqIqnM3t5Pw45D5BJO54_kIGA6E=/arc-anglerfish-arc2-prod-copesa/public/NYELLAJDXFGLTLFZCGFB2Y2WT4.jpg');
+            background-size: cover;
+            font-family: 'Genshin', sans-serif;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #FFD700;
+            text-shadow: 2px 2px #000000;
+        }
+
+        label {
+            font-size: 1.2rem;
+            color: #FFD700;
+            margin-top: 20px;
+            display: block;
+        }
+
+        select, button {
+            padding: 10px;
+            font-size: 1.1rem;
+            border-radius: 10px;
+            border: 2px solid #FFD700;
+            background-color: rgba(255, 255, 255, 0.2);
+            color: #ffffff;
+            margin-bottom: 15px;
+            width: 60%;
+            max-width: 500px;
+        }
+
+        button {
+            background-color: #FFD700;
+            color: #000;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #FFCC00;
+        }
+
+        pre {
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            border-radius: 10px;
+            color: #00FF00;
+            font-size: 1rem;
+            text-align: left;
+            width: 80%;
+            max-width: 600px;
+            margin: 20px auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .container {
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 15px;
+            padding: 20px;
+            width: 80%;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+
+        /* Estilo especial para que los selects se vean tipo Genshin */
+        select:focus, button:focus {
+            outline: none;
+            box-shadow: 0 0 5px #FFD700;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Artefactos para Genshin</h1>
+
+        <!-- Lista desplegable para seleccionar un set de artefactos -->
+        <label for="setSelect">Selecciona un set de artefactos:</label>
+        <select id="setSelect">
+            <option value="">Cargando sets...</option>
+        </select>
+
+        <!-- Lista desplegable para seleccionar un main_stat -->
+        <label for="mainStatSelect">Selecciona un Main Stat:</label>
+        <select id="mainStatSelect">
+            <option value="">Selecciona un set primero</option>
+        </select>
+
+        <!-- Lista desplegable para seleccionar sub_stats (multiple selection) -->
+        <label for="subStatSelect">Selecciona los Sub Stats (máximo 4):</label>
+        <select id="subStatSelect" multiple size="4">
+            <option value="">Selecciona un Main Stat primero</option>
+        </select>
+
+        <!-- Botón para enviar la solicitud -->
+        <button id="enviarSolicitud">Enviar Solicitud</button>
+
+        <!-- Se mostrará aquí la respuesta -->
+        <pre id="respuesta"></pre>
+    </div>
+
+    <script>
+        const getSetsUrl = 'https://us-central1-micros-chile.cloudfunctions.net/get_sets';
+        const getMainStatsUrl = 'https://us-central1-micros-chile.cloudfunctions.net/get_main_stats';
+        const getSubStatsUrl = 'https://us-central1-micros-chile.cloudfunctions.net/get_sub_stats';
+
+        // Cargar los sets de artefactos cuando se carga la página
+        window.onload = function() {
+            fetch(getSetsUrl)
+            .then(response => response.json())
+            .then(data => {
+                const setSelect = document.getElementById('setSelect');
+                setSelect.innerHTML = ''; 
+                setSelect.appendChild(new Option('Selecciona un set', ''));
+                data.forEach(set => {
+                    const option = document.createElement('option');
+                    option.value = set.artefacto_set;
+                    option.textContent = set.artefacto_set;
+                    setSelect.appendChild(option);
+                });
+            });
+        };
+
+        // Cargar los main_stats cuando se selecciona un set
+        document.getElementById("setSelect").addEventListener("change", function() {
+            const selectedSet = document.getElementById("setSelect").value;
+
+            if (!selectedSet) {
+                document.getElementById("mainStatSelect").innerHTML = '<option value="">Selecciona un set primero</option>';
+                return;
+            }
+
+            // Realizar la solicitud para obtener los main_stats
+            fetch(getMainStatsUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ set_name: selectedSet })
+            })
+            .then(response => response.json())
+            .then(data => {
+                const mainStatSelect = document.getElementById('mainStatSelect');
+                mainStatSelect.innerHTML = ''; 
+                mainStatSelect.appendChild(new Option('Ninguno', ''));
+                data.forEach(stat => {
+                    const option = document.createElement('option');
+                    option.value = stat.main_stat_artefacto;
+                    option.textContent = stat.main_stat_artefacto;
+                    mainStatSelect.appendChild(option);
+                });
+            });
+        });
+
+        // Cargar los sub_stats cuando se selecciona un main_stat
+        document.getElementById("mainStatSelect").addEventListener("change", function() {
+            const selectedSet = document.getElementById("setSelect").value;
+            const selectedMainStat = document.getElementById("mainStatSelect").value;
+
+            if (!selectedMainStat) {
+                document.getElementById("subStatSelect").innerHTML = '<option value="">Selecciona un Main Stat primero</option>';
+                return;
+            }
+
+            // Realizar la solicitud para obtener los sub_stats
+            fetch(getSubStatsUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ set_name: selectedSet, main_stat: selectedMainStat })
+            })
+            .then(response => response.json())
+            .then(data => {
+                const subStatSelect = document.getElementById('subStatSelect');
+                subStatSelect.innerHTML = ''; 
+                data.forEach(subStat => {
+                    const option = document.createElement('option');
+                    option.value = subStat.sub_stat;
+                    option.textContent = subStat.sub_stat;
+                    subStatSelect.appendChild(option);
+                });
+            });
+        });
+
+        // Enviar la solicitud POST con el set, main_stat y sub_stats seleccionados
+        document.getElementById("enviarSolicitud").addEventListener("click", function() {
+            const selectedSet = document.getElementById("setSelect").value;
+            const selectedMainStat = document.getElementById("mainStatSelect").value;
+            const selectedSubStats = Array.from(document.getElementById("subStatSelect").selectedOptions)
+                                          .map(option => option.value);
+
+            // Validar que se seleccionen hasta 4 sub_stats
+            if (selectedSubStats.length > 4) {
+                document.getElementById("respuesta").textContent = "Solo puedes seleccionar hasta 4 Sub Stats.";
+                return;
+            }
+
+            if (!selectedSet || !selectedMainStat || selectedSubStats.length === 0) {
+                document.getElementById("respuesta").textContent = "Por favor, selecciona un set, un main stat y al menos un sub stat.";
+                return;
+            }
+
+            // URL de la función de Cloud
+            const url = 'https://us-central1-micros-chile.cloudfunctions.net/get_artifacts';
+
+            // Datos que enviarás en la solicitud
+            const data = {
+                set_name: selectedSet,
+                main_stat: selectedMainStat,
+                sub_stats: selectedSubStats
+            };
+
+            // Realizar la solicitud POST
+            fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(json => {
+                // Mostrar la respuesta JSON en el elemento <pre>
+                document.getElementById("respuesta").textContent = JSON.stringify(json, null, 2);
+            })
+            .catch(error => {
+                // Mostrar el error en el elemento <pre>
+                document.getElementById("respuesta").textContent = `Error: ${error}`;
+            });
+        });
+    </script>
+
+</body>
+</html>
