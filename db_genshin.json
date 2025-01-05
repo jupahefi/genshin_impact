@@ -1,0 +1,2251 @@
+[{
+  "name": "Alhaitham",
+  "element": "Dendro",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Gilded Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Dendro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Elemental Mastery", "ATK%", "Energy Recharge"]
+  }]
+}, {
+  "name": "Dehya",
+  "element": "Pyro",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Emblem of Severed Fate",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "HP%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "HP%", "ATK%"]
+  }]
+}, {
+  "name": "Yaoyao",
+  "element": "Dendro",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Tenacity of the Millelith",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Healing Bonus", "HP%", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "HP%", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "Healing Bonus", "HP%", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "HP%", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Circlet of Logos",
+    "main_stat": "Healing Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Baizhu",
+  "element": "Dendro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Deepwood Memories",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["HP%", "Energy Recharge", "Elemental Mastery", "Healing Bonus"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["HP%", "Energy Recharge", "Elemental Mastery", "Healing Bonus"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "Healing Bonus", "Elemental Mastery", "HP%"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "HP%", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Circlet of Logos",
+    "main_stat": "Healing Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Kaveh",
+  "element": "Dendro",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Gilded Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Dendro DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Xiao",
+  "element": "Anemo",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Vermillion Hereafter",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Vermillion Hereafter",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Vermillion Hereafter",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Vermillion Hereafter",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Vermillion Hereafter",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "ATK%", "Energy Recharge", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Ayaka",
+  "element": "Cryo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit DMG", "Crit Rate", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit DMG", "Crit Rate", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit DMG", "Crit Rate", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit DMG", "Crit Rate", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Elemental Mastery", "ATK%", "Energy Recharge"]
+  }]
+}, {
+  "name": "Eula",
+  "element": "Cryo",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Pale Flame",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Pale Flame",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Pale Flame",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Pale Flame",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Physical DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Pale Flame",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Elemental Mastery", "ATK%", "Energy Recharge"]
+  }]
+}, {
+  "name": "Yoimiya",
+  "element": "Pyro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Elemental Mastery", "ATK%", "Energy Recharge"]
+  }]
+}, {
+  "name": "Itto",
+  "element": "Geo",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Husk of Opulent Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["DEF%", "Crit Rate", "Energy Recharge", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["DEF%", "Crit Rate", "Energy Recharge", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "DEF%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["DEF%", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["DEF%", "Crit DMG", "Energy Recharge", "ATK%"]
+  }]
+}, {
+  "name": "Candace",
+  "element": "Hydro",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Tenacity of the Millelith",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "HP%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Nilou",
+  "element": "Hydro",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Tenacity of the Millelith",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "HP%",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Circlet of Logos",
+    "main_stat": "HP%",
+    "sub_stats": ["HP%", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Faruzan",
+  "element": "Anemo",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Viridescent Venerer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Elemental Mastery", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Elemental Mastery", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Elemental Mastery", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Layla",
+  "element": "Cryo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Tenacity of the Millelith",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Elemental Mastery", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Elemental Mastery", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Elemental Mastery", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Elemental Mastery", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "HP%"]
+  }]
+}, {
+  "name": "Wanderer",
+  "element": "Anemo",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Desert Pavilion Chronicle",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Desert Pavilion Chronicle",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Desert Pavilion Chronicle",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Desert Pavilion Chronicle",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Desert Pavilion Chronicle",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "HP%"]
+  }]
+}, {
+  "name": "Gorou",
+  "element": "Geo",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Husk of Opulent Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "DEF%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["DEF%", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["DEF%", "Crit DMG", "Energy Recharge", "ATK%"]
+  }]
+}, {
+  "name": "Shenhe",
+  "element": "Cryo",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["ATK%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Yelan",
+  "element": "Hydro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Emblem of Severed Fate",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Kuki Shinobu",
+  "element": "Electro",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Tenacity of the Millelith",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["HP%", "Energy Recharge", "Crit Rate", "Healing Bonus"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "ATK%", "Elemental Mastery", "Healing Bonus"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "HP%",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Circlet of Logos",
+    "main_stat": "Healing Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Heizou",
+  "element": "Anemo",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Viridescent Venerer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Arlecchino",
+  "element": "Pyro",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Crimson Witch of Flames",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Childe",
+  "element": "Hydro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Heart of Depth",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Kaeya",
+  "element": "Cryo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Lisa",
+  "element": "Electro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Thundering Fury",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Electro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Razor",
+  "element": "Electro",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Pale Flame",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Pale Flame",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Pale Flame",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Pale Flame",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Physical DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Pale Flame",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Qiqi",
+  "element": "Cryo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Ocean-Hued Clam",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Circlet of Logos",
+    "main_stat": "Healing Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Ningguang",
+  "element": "Geo",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Archaic Petra",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Archaic Petra",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Archaic Petra",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Archaic Petra",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Archaic Petra",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Pulcinella",
+  "element": "Unknown",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Noblesse Oblige",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "HP%", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["HP%", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "ATK%",
+    "sub_stats": ["Energy Recharge", "HP%", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "HP%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Pierro",
+  "element": "Unknown",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["ATK%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "HP%"]
+  }, {
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Physical DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "HP%"]
+  }, {
+    "name": "Gladiator\u0027s Finale",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Zhongli",
+  "element": "Geo",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Tenacity of the Millelith",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["HP%", "Crit Rate", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["HP%", "Crit Rate", "Energy Recharge", "Crit DMG"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "HP%", "Crit Rate", "ATK%"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["HP%", "Crit DMG", "Crit Rate", "Energy Recharge"]
+  }, {
+    "name": "Tenacity of the Millelith",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["HP%", "Crit DMG", "Energy Recharge", "ATK%"]
+  }]
+}, {
+  "name": "Ganyu",
+  "element": "Cryo",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit DMG", "Crit Rate", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit DMG", "Crit Rate", "Elemental Mastery", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit DMG", "Crit Rate", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit DMG", "Crit Rate", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Elemental Mastery", "ATK%", "Energy Recharge"]
+  }]
+}, {
+  "name": "Albedo",
+  "element": "Geo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Husk of Opulent Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["DEF%", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "DEF%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["DEF%", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["DEF%", "Crit DMG", "Energy Recharge", "ATK%"]
+  }]
+}, {
+  "name": "Kazuha",
+  "element": "Anemo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Viridescent Venerer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Tartaglia (Childe)",
+  "element": "Hydro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Heart of Depth",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit DMG", "Crit Rate", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit DMG", "Crit Rate", "Elemental Mastery", "ATK%"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit DMG", "Crit Rate", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["Crit DMG", "Crit Rate", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Elemental Mastery", "ATK%", "Energy Recharge"]
+  }]
+}, {
+  "name": "Dainsleif",
+  "element": "Unknown",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Noblesse Oblige",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "ATK%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "La Signora",
+  "element": "Cryo",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Xingqiu",
+  "element": "Hydro",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Emblem of Severed Fate",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Rosaria",
+  "element": "Cryo",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Barbara",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Maiden Beloved",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Healing Bonus", "ATK%", "HP%"]
+  }, {
+    "name": "Maiden Beloved",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Healing Bonus", "HP%", "Elemental Mastery"]
+  }, {
+    "name": "Maiden Beloved",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "Healing Bonus", "Elemental Mastery", "HP%"]
+  }, {
+    "name": "Maiden Beloved",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Maiden Beloved",
+    "slot": "Circlet of Logos",
+    "main_stat": "Healing Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Bennett",
+  "element": "Pyro",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Noblesse Oblige",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Beidou",
+  "element": "Electro",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Emblem of Severed Fate",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Electro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Hu Tao",
+  "element": "Pyro",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Crimson Witch of Flames",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "HP%", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "HP%", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "HP%"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "HP%", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit DMG",
+    "sub_stats": ["Crit Rate", "HP%", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Diluc",
+  "element": "Pyro",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Crimson Witch of Flames",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "ATK%", "Elemental Mastery", "Energy Recharge"]
+  }]
+}, {
+  "name": "Venti",
+  "element": "Anemo",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Viridescent Venerer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Elemental Mastery", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Raiden Shogun",
+  "element": "Electro",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Emblem of Severed Fate",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Electro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Kokomi",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Ocean-Hued Clam",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["HP%", "Energy Recharge", "ATK%", "Healing Bonus"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "ATK%", "Elemental Mastery", "Healing Bonus"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Circlet of Logos",
+    "main_stat": "Healing Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Jean",
+  "element": "Anemo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Viridescent Venerer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "ATK%"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Energy Recharge", "Crit DMG", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Yanfei",
+  "element": "Pyro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Crimson Witch of Flames",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Mona",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Noblesse Oblige",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "ATK%"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Energy Recharge", "Crit DMG", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Chongyun",
+  "element": "Cryo",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Tighnari",
+  "element": "Dendro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Deepwood Memories",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Dendro DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Collei",
+  "element": "Dendro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Deepwood Memories",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Dendro DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Deepwood Memories",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Dori",
+  "element": "Electro",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Noblesse Oblige",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Healing Bonus", "ATK%"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Healing Bonus"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Healing Bonus"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Electro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Healing Bonus"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Circlet of Logos",
+    "main_stat": "Healing Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Nahida",
+  "element": "Dendro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Gilded Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Dendro DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Cyno",
+  "element": "Electro",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Gilded Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Electro DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Gilded Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Navia",
+  "element": "Geo",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Husk of Opulent Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "DEF%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["DEF%", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["DEF%", "Crit DMG", "Energy Recharge", "ATK%"]
+  }]
+}, {
+  "name": "Sigewinne",
+  "element": "Hydro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Ocean-Hued Clam",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "HP%", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "HP%", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Sands of Eon",
+    "main_stat": "HP%",
+    "sub_stats": ["Energy Recharge", "HP%", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "HP%", "Healing Bonus", "Elemental Mastery"]
+  }, {
+    "name": "Ocean-Hued Clam",
+    "slot": "Circlet of Logos",
+    "main_stat": "Healing Bonus",
+    "sub_stats": ["HP%", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Albedo",
+  "element": "Geo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Husk of Opulent Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "DEF%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["DEF%", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["DEF%", "Crit DMG", "Energy Recharge", "ATK%"]
+  }]
+}, {
+  "name": "Kujou Sara",
+  "element": "Electro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Emblem of Severed Fate",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Electro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Thoma",
+  "element": "Pyro",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Emblem of Severed Fate",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Emblem of Severed Fate",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Yun Jin",
+  "element": "Geo",
+  "weapon": "Polearm",
+  "artifacts": [{
+    "name": "Husk of Opulent Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "DEF%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["DEF%", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["DEF%", "Crit DMG", "Energy Recharge", "ATK%"]
+  }]
+}, {
+  "name": "Sayu",
+  "element": "Anemo",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Viridescent Venerer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Fischl",
+  "element": "Electro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Thundering Fury",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Electro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Noelle",
+  "element": "Geo",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Husk of Opulent Dreams",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["DEF%", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Sands of Eon",
+    "main_stat": "DEF%",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Geo DMG Bonus",
+    "sub_stats": ["DEF%", "Crit Rate", "Crit DMG", "Energy Recharge"]
+  }, {
+    "name": "Husk of Opulent Dreams",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["DEF%", "Crit DMG", "Energy Recharge", "ATK%"]
+  }]
+}, {
+  "name": "Sucrose",
+  "element": "Anemo",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Viridescent Venerer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Sands of Eon",
+    "main_stat": "Elemental Mastery",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Xinyan",
+  "element": "Pyro",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Retracing Bolide",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Retracing Bolide",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Retracing Bolide",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Retracing Bolide",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Retracing Bolide",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Diona",
+  "element": "Cryo",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Noblesse Oblige",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Noblesse Oblige",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Klee",
+  "element": "Pyro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Crimson Witch of Flames",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "ATK%"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "ATK%"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "ATK%"]
+  }, {
+    "name": "Crimson Witch of Flames",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "ATK%", "Elemental Mastery", "Energy Recharge"]
+  }]
+}, {
+  "name": "Charlotte",
+  "element": "Cryo",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Clorinde",
+  "element": "Electro",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Thundering Fury",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Electro DMG Bonus",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Thundering Fury",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Lynette",
+  "element": "Anemo",
+  "weapon": "Sword",
+  "artifacts": [{
+    "name": "Viridescent Venerer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Energy Recharge", "Crit Rate", "Crit DMG", "Elemental Mastery"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Sands of Eon",
+    "main_stat": "Energy Recharge",
+    "sub_stats": ["Elemental Mastery", "Crit Rate", "Crit DMG", "ATK%"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Anemo DMG Bonus",
+    "sub_stats": ["Elemental Mastery", "Energy Recharge", "Crit Rate", "Crit DMG"]
+  }, {
+    "name": "Viridescent Venerer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "ATK%"]
+  }]
+}, {
+  "name": "Lyney",
+  "element": "Pyro",
+  "weapon": "Bow",
+  "artifacts": [{
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Pyro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Shimenawa\u0027s Reminiscence",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Elemental Mastery", "Energy Recharge", "HP%"]
+  }]
+}, {
+  "name": "Freminet",
+  "element": "Cryo",
+  "weapon": "Claymore",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Energy Recharge"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "Elemental Mastery", "HP%"]
+  }]
+}, {
+  "name": "Neuvillette",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Heart of Depth",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Elemental Mastery", "Energy Recharge"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Hydro DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "ATK%", "Elemental Mastery"]
+  }, {
+    "name": "Heart of Depth",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}, {
+  "name": "Wriothesley",
+  "element": "Cryo",
+  "weapon": "Catalyst",
+  "artifacts": [{
+    "name": "Blizzard Strayer",
+    "slot": "Flower of Life",
+    "main_stat": "HP",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "ATK%"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Plume of Death",
+    "main_stat": "ATK",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Sands of Eon",
+    "main_stat": "ATK%",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Goblet of Eonothem",
+    "main_stat": "Cryo DMG Bonus",
+    "sub_stats": ["Crit Rate", "Crit DMG", "Energy Recharge", "Elemental Mastery"]
+  }, {
+    "name": "Blizzard Strayer",
+    "slot": "Circlet of Logos",
+    "main_stat": "Crit Rate",
+    "sub_stats": ["Crit DMG", "Energy Recharge", "ATK%", "Elemental Mastery"]
+  }]
+}]
