@@ -7,3 +7,5 @@ lo divido en lo que hice:
 5. cuando todo ya estaba funcionando como debería, lo tiré a vercel para desplegar el front
 6. hice un front bonito con mi amigo chatgpt... simplesito -- pero siempre acompañado de ir probando en celu y en pc
 7. acá en vercel la app se caía a veces y fui enriqueciendo el backend y front end
+
+Resultado final (necesitas cuenta en vercel): https://genshin-impact-gcf2hkgof-jupahefis-projects.vercel.app/
